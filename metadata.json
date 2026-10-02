@@ -1,0 +1,6 @@
+{
+  "name": "OptiLinear - Programación Lineal",
+  "description": "Modelador y optimizador de Programación Lineal con método gráfico 2D interactivo, algoritmo Simplex primal y análisis de sensibilidad.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
